@@ -1,5 +1,6 @@
 # Sales Report
 ## by AZOUGA Mourad
+![Screenshot of the report](https://github.com/Mourad-Azouga/Power-BI-Projects/Sales_Report/main/Screenshot.png?raw=true)
 This report has been taken from: [https://www.analyticsvidhya.com/blog/2023/08/top-18-power-bi-project/]
 
 ### Objective
