@@ -1,6 +1,6 @@
 # .ma domain registrations report
 ## by AZOUGA Mourad
-![Screenshot of the report](https://github.com/Mourad-Azouga/Power-BI-Projects/blob/main/.ma-domain-report/Screenshot.png)
+![Screenshot of the report](https://github.com/Mourad-Azouga/Power-BI-Projects/blob/main/.ma%20domain%20report/Screenshot.png)
 
 The CSV file was provided by the official website of the Moroccan government: [(https://data.gov.ma/data/fr/group/it-telecom)]
 
